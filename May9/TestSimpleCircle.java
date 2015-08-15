@@ -1,6 +1,7 @@
 import java.lang.Math;
 public class TestSimpleCircle{
     //main method
+    //Sole purpose of this method is to test the 2nd class
     public static void main (String[] args){
         //Creates a circle with radius 1
         SimpleCircle circle1 = new SimpleCircle();
